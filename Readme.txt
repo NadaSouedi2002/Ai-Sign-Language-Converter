@@ -11,4 +11,5 @@ which helps facilitate communication between deaf and mute people and normal peo
 4.run the train_classifier file 
 5.run the inference_classifier file 
 
+note ==> After downloading all folders, put folders(0.rar, 1.rar, 2.rar, 3.rar) inside empty folder called "data"
    ********************************************************************
